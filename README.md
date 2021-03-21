@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clussificate
 - 👀 I’m interested in Operations Managemnt and its interfaces with Marketing.
 - 🌱 I’m currently learning Game Theory, Optimization, Decision Theory and Machine Learning.
-- 💞️ I’m looking to collaborate on Ominichannel Operations.
+- 💞️ I’m looking to collaborate on Research on Ominichannel Operations Management.
 - 📫 How to reach me: Kzhang19@fudan.edu.cn
 
 <!---
