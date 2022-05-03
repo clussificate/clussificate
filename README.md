@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clussificate
-- 👀 I’m interested in Operations Management and its interfaces with Marketing.
+- 👀 I’m interested in Operations Management (OM) and its interfaces with Marketing.
 - 🌱 I’m currently learning game theory, optimization, decision analysis and machine learning.
-- 💞️ I’m looking for collaboration on Operations Management Research.
+- 💞️ I’m looking for collaboration on OM Research.
 - 📫 How to contanct with me: kzhang19@fudan.edu.cn
 
 <!---
